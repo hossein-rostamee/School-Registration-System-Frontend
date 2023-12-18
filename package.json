@@ -1,0 +1,66 @@
+{
+  "name": "school-management",
+  "version": "0.1.0",
+  "private": true,
+  "proxy" : "http://188.121.112.205:8000/",
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "animate.css": "^4.1.1",
+    "assert": "^2.0.0",
+    "axios": "^1.4.0",
+    "bootstrap": "^5.3.1",
+    "buffer": "^6.0.3",
+    "crypto": "^1.0.1",
+    "crypto-browserify": "3.12.0",
+    "crypto-random-string": "^3.3.0",
+    "csurf": "^1.11.0",
+    "framer-motion": "^10.16.0",
+    "jalaali-js": "^1.2.6",
+    "jalali-react-datepicker": "^1.2.3",
+    "ra-data-json-server": "^4.13.0",
+    "react": "^18.2.0",
+    "react-admin": "^4.13.0",
+    "react-bootstrap": "^2.8.0",
+    "react-dom": "^18.2.0",
+    "react-hichestan-datetimepicker": "^3.0.24",
+    "react-numeric-captcha": "^1.0.3",
+    "react-router-dom": "^6.14.2",
+    "react-scripts": "5.0.1",
+    "react-zoom-pan-pinch": "^3.1.0",
+    "reactstrap": "^9.2.0",
+    "stream": "^0.0.2",
+    "styled-components": "^6.0.7",
+    "tailwind": "^4.0.0",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object":"",
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.27"
+  }
+}

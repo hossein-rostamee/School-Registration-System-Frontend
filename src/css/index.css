@@ -1,0 +1,31 @@
+@font-face {
+  font-family: 'iran-sans';
+  src: url( '../fonts/A-Iranian-Sans/IRAN\ Sans\ Regular.woff') format('woff');
+  font-display: block;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+html {
+  margin: 0;
+  padding: 0;
+}
+
+.JDatePicker {
+  font-family: 'iran-sans';
+}
+
+.padding-off {
+  padding-left: 0 !important;
+}
+
